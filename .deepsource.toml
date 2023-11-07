@@ -1,5 +1,11 @@
 version = 1
 
 [[analyzers]]
+name = "secrets"
+
+[[analyzers]]
 name = "javascript"
-enabled = true
+
+[[analyzers]]
+name = "infer"
+type = "community"
