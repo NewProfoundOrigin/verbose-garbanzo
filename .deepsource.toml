@@ -5,7 +5,3 @@ name = "secrets"
 
 [[analyzers]]
 name = "javascript"
-
-[[analyzers]]
-name = "infer"
-type = "community"
