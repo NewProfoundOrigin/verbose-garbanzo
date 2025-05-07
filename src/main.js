@@ -1,5 +1,7 @@
 import App from './App.svelte';
 
+const a = 1;
+
 const app = new App({
 	target: document.body,
 	props: {
